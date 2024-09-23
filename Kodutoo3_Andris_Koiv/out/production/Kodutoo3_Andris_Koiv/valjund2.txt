@@ -1,0 +1,5 @@
+81234442345|Kask|Joosep|300   
+Tamm|Toomas|1234567|1100      
+Tamm|Toomas|1234567|1100      
+00000000001|Meri|Piret|errr   
+00000000001|Meri|Piret|errr   

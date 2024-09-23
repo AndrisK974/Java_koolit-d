@@ -1,0 +1,25 @@
+Perekonnanimi: Tamm
+Eesnimi: Jaak
+Isikukood: 37010102702
+Palk: 4400
+
+Perekonnanimi: Kuusk
+Eesnimi: Tanel
+Isikukood: 50104080212
+Palk: 1200
+
+Perekonnanimi: Kask
+Eesnimi: Joosep
+Isikukood: 81234442345
+Palk: 300   
+
+Perekonnanimi: Toomas
+Eesnimi: 1234567
+Isikukood: Tamm
+Palk: 1100      
+
+Perekonnanimi: Meri
+Eesnimi: Piret
+Isikukood: 00000000001
+Palk: errr   
+
